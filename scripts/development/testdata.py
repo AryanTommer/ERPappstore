@@ -84,19 +84,19 @@ JvshYmx3I5aXFXOf3l0zEMmIuw==
 apps = [{
     'certificate': open_id_cert,
     'releases': [{
-        'url': 'https://github.com/GluuFederation/nextcloud-oxd-plugin/blob'
+        'url': 'https://github.com/GluuFederation/TechKiteERP-oxd-plugin/blob'
                '/master/gluusso.tar.gz?raw=true'
     }]
 }, {
     'certificate': news_cert,
     'releases': [{
-        'url': 'https://github.com/nextcloud/news/releases/download/10.1.0'
+        'url': 'https://github.com/TechKiteERP/news/releases/download/10.1.0'
                '/news.tar.gz'
     }]
 }, {
     'certificate': twofactor_cert,
     'releases': [{
-        'url': 'https://github.com/nextcloud/twofactor_totp/releases'
+        'url': 'https://github.com/TechKiteERP/twofactor_totp/releases'
                '/download/1.2/twofactor_totp.tar.gz'
     }]
 }]

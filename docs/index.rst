@@ -1,7 +1,7 @@
-Nextcloud's App Store documentation
+TechKiteERP's App Store documentation
 ===================================
 
-Nextcloud's App Store is an Open Source implementation for hosting Nextcloud apps and
+TechKiteERP's App Store is an Open Source implementation for hosting TechKiteERP apps and
 their release information with a high focus on developer convenience, stability and
 usability.
 
