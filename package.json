@@ -1,7 +1,7 @@
 {
-    "name": "nextcloudappstore",
+    "name": "TechKiteERPappstore",
     "version": "1.0.0",
-    "description": "Nextcloud App Store",
+    "description": "TechKiteERP App Store",
     "main": "index.js",
     "directories": {
         "doc": "docs"
@@ -39,21 +39,21 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nextcloud/appstore.git"
+        "url": "git+https://github.com/TechKiteERP/appstore.git"
     },
     "keywords": [
         "app",
         "store",
-        "nextcloud",
+        "TechKiteERP",
         "cloud",
         "django",
         "python"
     ],
-    "author": "Nextcloud Community",
+    "author": "TechKiteERP Community",
     "license": "AGPL-3.0",
     "bugs": {
-        "url": "https://github.com/nextcloud/appstore/issues"
+        "url": "https://github.com/TechKiteERP/appstore/issues"
     },
-    "homepage": "https://github.com/nextcloud/appstore#readme",
+    "homepage": "https://github.com/TechKiteERP/appstore#readme",
     "private": true
 }

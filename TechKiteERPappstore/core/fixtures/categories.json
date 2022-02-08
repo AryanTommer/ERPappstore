@@ -1,0 +1,291 @@
+[
+    {
+        "model": "core.categorytranslation",
+        "pk": 1,
+        "fields": {
+            "language_code": "en",
+            "name": "Accounting",
+            "description": "Accounting Apps",
+            "master": "accounting"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 2,
+        "fields": {
+            "language_code": "en",
+            "name": "Discuss",
+            "description": "Discuss Apps",
+            "master": "discuss"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 3,
+        "fields": {
+            "language_code": "en",
+            "name": "Document Management",
+            "description": "Document Management Apps",
+            "master": "document"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 4,
+        "fields": {
+            "language_code": "en",
+            "name": "eCommerce ",
+            "description": "eCommerce Apps",
+            "master": "ecommerce"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 5,
+        "fields": {
+            "language_code": "en",
+            "name": "Human Resources",
+            "description": "Human Resources Apps",
+            "master": "human_resources"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 6,
+        "fields": {
+            "language_code": "en",
+            "name": "Industries",
+            "description": "Industries Apps",
+            "master": "industries"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 7,
+        "fields": {
+            "language_code": "en",
+            "name": "Manufacturing",
+            "description": "Manufacturing Apps",
+            "master": "manufacturing"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 8,
+        "fields": {
+            "language_code": "en",
+            "name": "Marketing",
+            "description": "Marketing Apps",
+            "master": "marketing"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 9,
+        "fields": {
+            "language_code": "en",
+            "name": "Point of Sale",
+            "description": "Point of Sale Apps",
+            "master": "point_of_sale"
+        }
+    },
+
+    {
+        "model": "core.categorytranslation",
+        "pk": 11,
+        "fields": {
+            "language_code": "en",
+            "name": "productivity",
+            "description": "Productivity Apps",
+            "master": "productivity"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 12,
+        "fields": {
+            "language_code": "en",
+            "name": "Project",
+            "description": "Project Apps",
+            "master": "project"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 13,
+        "fields": {
+            "language_code": "en",
+            "name": "Purchases",
+            "description": "Purchases Apps",
+            "master": "purchases"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 14,
+        "fields": {
+            "language_code": "en",
+            "name": "Sales",
+            "description": "Sales Apps",
+            "master": "sales"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 15,
+        "fields": {
+            "language_code": "en",
+            "name": "Warehouse",
+            "description": "Warehouse Apps",
+            "master": "warehouse"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 16,
+        "fields": {
+            "language_code": "en",
+            "name": "Website",
+            "description": "Website Apps",
+            "master": "website"
+        }
+    },
+    {
+        "model": "core.categorytranslation",
+        "pk": 17,
+        "fields": {
+            "language_code": "en",
+            "name": "Tools",
+            "description": "Extra Tools Apps",
+            "master": "tools"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "human_resources",
+        "fields": {
+            "created": "2016-07-02T09:54:54.939Z",
+            "last_modified": "2016-07-02T09:54:54.939Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "document",
+        "fields": {
+            "created": "2016-07-02T09:25:25.325Z",
+            "last_modified": "2016-07-02T09:27:25.338Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "marketing",
+        "fields": {
+            "created": "2016-07-02T09:59:44.560Z",
+            "last_modified": "2016-07-02T09:59:44.560Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "point_of_sale",
+        "fields": {
+            "created": "2016-07-02T10:00:58.515Z",
+            "last_modified": "2016-07-02T10:00:58.515Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "discuss",
+        "fields": {
+            "created": "2016-06-11T10:37:24Z",
+            "last_modified": "2016-07-02T10:02:52.864Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "ecommerce",
+        "fields": {
+            "created": "2016-07-02T09:26:27.216Z",
+            "last_modified": "2016-07-02T09:28:24.928Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "manufacturing",
+        "fields": {
+            "created": "2016-07-02T09:57:57.226Z",
+            "last_modified": "2016-07-02T09:57:57.226Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "industries",
+        "fields": {
+            "created": "2016-07-02T09:57:18.394Z",
+            "last_modified": "2016-07-02T09:57:18.394Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "accounting",
+        "fields": {
+            "created": "2016-06-11T10:37:24Z",
+            "last_modified": "2016-07-02T10:01:45.369Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "project",
+        "fields": {
+            "created": "2016-06-11T10:37:24Z",
+            "last_modified": "2016-07-02T10:01:45.369Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "productivity",
+        "fields": {
+            "created": "2016-06-11T10:37:24Z",
+            "last_modified": "2016-07-02T10:01:45.369Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "purchases",
+        "fields": {
+            "created": "2018-04-11T10:46:10Z",
+            "last_modified": "2018-04-11T10:46:10Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "sales",
+        "fields": {
+            "created": "2019-11-18T14:20:12Z",
+            "last_modified": "2019-11-18T14:20:12Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "warehouse",
+        "fields": {
+            "created": "2020-08-04T15:50:12Z",
+            "last_modified": "2020-08-04T15:50:12Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "website",
+        "fields": {
+            "created": "2020-08-04T15:50:12Z",
+            "last_modified": "2020-08-04T15:50:12Z"
+        }
+    },
+    {
+        "model": "core.category",
+        "pk": "tools",
+        "fields": {
+            "created": "2020-08-04T15:50:12Z",
+            "last_modified": "2020-08-04T15:50:12Z"
+        }
+    }
+]

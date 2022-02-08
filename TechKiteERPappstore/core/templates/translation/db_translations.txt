@@ -1,0 +1,32 @@
+{% trans "Accounting" %}
+{% trans "Accounting Apps" %}
+{% trans "Discuss" %}
+{% trans "Discuss Apps" %}
+{% trans "Document" %}
+{% trans "Document Management Apps" %}
+{% trans "eCommerce" %}
+{% trans "eCommerce Apps" %}
+{% trans "Human Resources " %}
+{% trans "Human Resources Apps" %}
+{% trans "Industries" %}
+{% trans "Industries Apps" %}
+{% trans "Manufacturing" %}
+{% trans "Manufacturing Apps" %}
+{% trans "Marketing" %}
+{% trans "Marketing Apps" %}
+{% trans "Point of Sale" %}
+{% trans "Point of Sale Apps" %}
+{% trans "Productivity" %}
+{% trans "Productivity Apps" %}
+{% trans "Project" %}
+{% trans "Project Apps" %}
+{% trans "Purchases" %}
+{% trans "Purchases Apps" %}
+{% trans "Sales" %}
+{% trans "Sales Apps" %}
+{% trans "Warehouse" %}
+{% trans "Warehouse Apps" %}
+{% trans "Website" %}
+{% trans "Website Apps" %}
+{% trans "Tools" %}
+{% trans "Extra Tools Apps" %}
